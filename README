@@ -1,0 +1,6 @@
+Extension Composer Autoload
+
+A test extension intended to demonstrate various aspects of using the API.
+
+The following techniques are demonstrated:
+* Composer autoload with third party namespaces.
