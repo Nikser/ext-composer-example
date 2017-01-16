@@ -4,8 +4,9 @@
     <id>composer-example</id>
     <name>Composer Support for Extension</name>
     <description>A test extension intended to demonstrate autoload by composer.</description>
+    <category>example</category>
     <version>1.0</version>
-    <release>2</release>
+    <release>3</release>
     <vendor>Plesk</vendor>
     <url>https://github.com/plesk/ext-composer-example</url>
     <plesk_min_version>17.0.12</plesk_min_version>
